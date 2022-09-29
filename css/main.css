@@ -86,22 +86,6 @@ height: 500px;
   background-color: #ffe9ef;
 }
 
-#works .wrap{
-  
-}
-
-#works ul{
-  
-}
-#works li{
-  
-}
-#works h2{
-  
-}
-#works div{
-  
-}
 
 
 
@@ -111,14 +95,11 @@ main #work{
   background-color: #eee;
   height: 100%;
 }
-#work .wrap{
-  
- 
-}
+
 
 
 #work .wrap{
-  height: 1200px;
+  height: 1450px;
   width: 100%;
   padding-left: calc((100% - 1200px) / 2);
   box-sizing: border-box;
